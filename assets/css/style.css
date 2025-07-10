@@ -2929,7 +2929,7 @@ body.search-visible {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    gap: 13px;
+    gap: 2px;
 }
 
 
